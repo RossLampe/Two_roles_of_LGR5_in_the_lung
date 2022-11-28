@@ -1,0 +1,30 @@
+SampleID	condition	batch
+Pig2-GFP-neg	A	
+Pig1-GFP-neg	A	
+Pig1-GFP-pos	B	
+Pig2-GFP-pos	B
+
+
+
+
+Pig1
+ET-36
+Sex M
+LGR5 positive
+DOB 8/26/2020  
+Euthanized  12/15/2020
+Age 111 days
+Flow sorted 12/15/2020;  approx 200k GFP+ cells
+Note: Low input RNA seq.
+
+
+Pig2
+ET-38
+Sex F
+LGR5 positive
+DOB 8/26/2020  
+Euthanized  12/15/2020
+Age 111 days
+Flow sorted 12/15/2020;  approx 200k GFP+ cells
+Note: Low input RNA seq.
+	

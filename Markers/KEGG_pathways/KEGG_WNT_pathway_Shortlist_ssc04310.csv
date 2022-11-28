@@ -1,0 +1,163 @@
+﻿AXIN1, axin-1 isoform X1 [KO:K02157]
+AXIN2, axin-2 isoform X1 [KO:K04385]
+,
+,
+CACYBP, calcyclin-binding protein isoform X1 [KO:K04507]
+CAMK2A, calcium/calmodulin-dependent protein kinase type II subunit alpha isoform X7 [KO:K04515] [EC:2.7.11.17]
+CAMK2B, calcium/calmodulin-dependent protein kinase type II subunit beta isoform X1 [KO:K04515] [EC:2.7.11.17]
+CAMK2D, calcium/calmodulin-dependent protein kinase type II subunit delta [KO:K04515] [EC:2.7.11.17]
+CAMK2G, calcium/calmodulin-dependent protein kinase type II subunit gamma [KO:K04515] [EC:2.7.11.17]
+,
+CCDC88C,
+,
+CCND1, G1/S-specific cyclin-D1 [KO:K04503]
+CCND2, G1/S-specific cyclin-D2 [KO:K10151]
+CCND3, G1/S-specific cyclin-D3 [KO:K10152]
+,
+,
+CREBBP, CREB-binding protein [KO:K04498] [EC:2.3.1.48]
+,
+,
+,
+,
+,
+,
+CTNNB1, catenin beta-1 [KO:K02105]
+,
+CTNND2, catenin delta-2 isoform X1 [KO:K23491]
+CUL1, cullin-1 [KO:K03347]
+,
+DAAM1, disheveled-associated activator of morphogenesis 1 isoform X1 [KO:K04512]
+,
+DKK1, dickkopf-related protein 1 precursor [KO:K02165]
+DKK2, dickkopf-related protein 2 [KO:K02165]
+DKK4, dickkopf-related protein 4 [KO:K02165]
+DVL1, segment polarity protein dishevelled homolog DVL-1 isoform X2 [KO:K02353]
+DVL2, LOW QUALITY PROTEIN: segment polarity protein dishevelled homolog DVL-2 [KO:K02353]
+DVL3, segment polarity protein dishevelled homolog DVL-3 isoform X1 [KO:K02353]
+,
+,
+,
+,
+,
+,
+FRZB, secreted frizzled-related protein 3 precursor [KO:K25481]
+FZD1, frizzled-1 [KO:K02432]
+FZD10, frizzled-10 [KO:K02842]
+FZD2, frizzled-2 precursor [KO:K02235]
+FZD3, frizzled-3 isoform X1 [KO:K02329]
+FZD4, LOW QUALITY PROTEIN: frizzled-4 [KO:K02354]
+FZD5, frizzled-5 [KO:K02375]
+FZD6, frizzled-6 precursor [KO:K02376]
+FZD7, frizzled-7 [KO:K02432]
+FZD8, LOW QUALITY PROTEIN: frizzled-8 [KO:K02375]
+FZD9, frizzled-9 [KO:K02842]
+,
+GSK3B, glycogen synthase kinase-3 beta [KO:K03083] [EC:2.7.11.26]
+,
+JUN, transcription factor AP-1 [KO:K04448]
+,
+LGR4, leucine-rich repeat-containing G-protein coupled receptor 4 isoform X2 [KO:K04309]
+LGR5, leucine-rich repeat-containing G-protein coupled receptor 5 precursor [KO:K04308]
+LGR6, leucine-rich repeat-containing G-protein coupled receptor 6 isoform X1 [KO:K08399]
+,
+LRP5, low-density lipoprotein receptor-related protein 5 isoform X1 [KO:K03068]
+LRP6, LOW QUALITY PROTEIN: low-density lipoprotein receptor-related protein 6 [KO:K03068]
+,
+,
+,
+,
+,
+MYC, myc proto-oncogene protein [KO:K04377]
+,
+,
+NFATC4,
+,
+NKD1, protein naked cuticle homolog 1 isoform X1 [KO:K03213]
+NKD2, LOW QUALITY PROTEIN: protein naked cuticle homolog 2 [KO:K03213]
+,
+NOTUM, palmitoleoyl-protein carboxylesterase NOTUM [KO:K19882] [EC:3.1.1.98]
+,
+,
+,
+,
+,
+,
+PPP3CA, serine/threonine-protein phosphatase 2B catalytic subunit alpha isoform [KO:K04348] [EC:3.1.3.16]
+PPP3CB, serine/threonine-protein phosphatase 2B catalytic subunit beta isoform isoform X3 [KO:K04348] [EC:3.1.3.16]
+PPP3CC, serine/threonine-protein phosphatase 2B catalytic subunit gamma isoform isoform X4 [KO:K04348] [EC:3.1.3.16]
+PPP3R1, calcineurin subunit B type 1 [KO:K06268]
+PPP3R2, calcineurin subunit B type 2 [KO:K06268]
+PRICKLE1, prickle-like protein 1 isoform X1 [KO:K04511]
+PRICKLE2, prickle-like protein 2 isoform X3 [KO:K04511]
+PRICKLE3, prickle-like protein 3 [KO:K04511]
+PRICKLE4, prickle-like protein 4 [KO:K04511]
+,
+PRKCB,
+,
+,
+,
+PSEN1, presenilin-1 [KO:K04505] [EC:3.4.23.-]
+RAC1, ras-related C3 botulinum toxin substrate 1 [KO:K04392]
+RAC2, ras-related C3 botulinum toxin substrate 2 isoform X1 [KO:K07860]
+RAC3, ras-related C3 botulinum toxin substrate 3 isoform X1 [KO:K07861]
+RBX1, E3 ubiquitin-protein ligase RBX1 isoform X1 [KO:K03868] [EC:2.3.2.32]
+RHOA, transforming protein RhoA [KO:K04513]
+RNF43, LOW QUALITY PROTEIN: E3 ubiquitin-protein ligase RNF43 [KO:K15694] [EC:2.3.2.27]
+ROCK2, rho-associated protein kinase 2 isoform X1 [KO:K17388] [EC:2.7.11.1]
+ROR1, inactive tyrosine-protein kinase transmembrane receptor ROR1 isoform X1 [KO:K05122] [EC:2.7.10.1]
+ROR2, tyrosine-protein kinase transmembrane receptor ROR2 [KO:K05123] [EC:2.7.10.1]
+RSPO1, R-spondin-1 [KO:K19471]
+RSPO2, R-spondin-2 precursor [KO:K23097]
+RSPO3, R-spondin-3 precursor [KO:K23098]
+RSPO4, R-spondin-4 [KO:K23099]
+RUVBL1, ruvB-like 1 isoform X1 [KO:K04499] [EC:5.6.2.4]
+RYK, LOW QUALITY PROTEIN: tyrosine-protein kinase RYK [KO:K05128] [EC:2.7.10.1]
+SENP2, sentrin-specific protease 2 isoform X1 [KO:K03345] [EC:3.4.22.68]
+SERPINF1, pigment epithelium-derived factor precursor [KO:K19614]
+SFRP1, secreted frizzled-related protein 1 [KO:K02166]
+SFRP2, secreted frizzled-related protein 2 precursor [KO:K02176]
+SFRP4, secreted frizzled-related protein 4 precursor [KO:K02185]
+SFRP5, secreted frizzled-related protein 5 precursor [KO:K02222]
+SIAH1, E3 ubiquitin-protein ligase SIAH1 isoform X1 [KO:K04506] [EC:2.3.2.27]
+SKP1, S-phase kinase-associated protein 1 [KO:K03094]
+SMAD3, mothers against decapentaplegic homolog 3 [KO:K23605]
+SMAD4, mothers against decapentaplegic homolog 4 [KO:K04501]
+SOST, sclerostin [KO:K16834]
+SOX17, transcription factor SOX-17 [KO:K04495]
+TBL1X, F-box-like/WD repeat-containing protein TBL1X isoform X1 [KO:K04508]
+TBL1XR1, F-box-like/WD repeat-containing protein TBL1XR1 isoform X1 [KO:K04508]
+TCF7, transcription factor 7 isoform X1 [KO:K02620]
+TCF7L1, LOW QUALITY PROTEIN: transcription factor 7-like 1 [KO:K04490]
+TCF7L2, transcription factor 7-like 2 isoform X26 [KO:K04491]
+TLE2, transducin-like enhancer protein 2 isoform X3 [KO:K04497]
+TLE3, transducin-like enhancer protein 3 isoform X1 [KO:K04497]
+TLE4, transducin-like enhancer protein 4 isoform X2 [KO:K04497]
+TLE6, transducin-like enhancer protein 6 isoform X1 [KO:K04497]
+TP53, cellular tumor antigen p53 [KO:K04451]
+,
+,
+VANGL1, vang-like protein 1 [KO:K04510]
+VANGL2, vang-like protein 2 [KO:K04510]
+WIF1, wnt inhibitory factor 1 precursor [KO:K01691]
+WISP1, WNT1-inducible-signaling pathway protein 1 isoform X1 [KO:K22471]
+WNT1, proto-oncogene Wnt-1 [KO:K03209]
+WNT10A, LOW QUALITY PROTEIN: protein Wnt-10a [KO:K01357]
+WNT10B, protein Wnt-10b precursor [KO:K01357]
+WNT11, protein Wnt-11 [KO:K01384]
+WNT16, protein Wnt-16 [KO:K01558]
+WNT2, protein Wnt-2 [KO:K00182]
+WNT2B, protein Wnt-2b isoform X1 [KO:K00182]
+WNT3, proto-oncogene Wnt-3 isoform X1 [KO:K00312]
+WNT3A, protein Wnt-3a isoform X1 [KO:K00312]
+WNT4, protein Wnt-4 [KO:K00408]
+WNT5A, protein Wnt-5a isoform X1 [KO:K00444]
+WNT5B, LOW QUALITY PROTEIN: protein Wnt-5b [KO:K00444]
+WNT6, protein Wnt-6 [KO:K00445]
+WNT7A, protein Wnt-7a [KO:K00572]
+WNT7B, protein Wnt-7b isoform X1 [KO:K00572]
+WNT8A, protein Wnt-8a [KO:K00714]
+WNT8B, protein Wnt-8b isoform X1 [KO:K00714]
+WNT9A, protein Wnt-9a [KO:K01064]
+WNT9B, protein Wnt-9b [KO:K01064]
+ZNRF3, E3 ubiquitin-protein ligase ZNRF3 isoform X1 [KO:K16273] [EC:2.3.2.27]
